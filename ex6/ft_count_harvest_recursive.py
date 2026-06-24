@@ -8,4 +8,4 @@ def ft_count_harvest_recursive() -> None:
         count_day(day + 1)
 
     count_day(1)
-    print("Havest time !")
+    print("Havest time!")
